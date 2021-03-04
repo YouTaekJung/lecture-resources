@@ -39,8 +39,8 @@ You’ll learn how to,
 Thanks for reading.
 
 Your Sincerely,
-
------------------------------------------------
+```
+-----------------------------------
 Mehdi Pirahandeh, Ph.D
 
 Invited Professor
@@ -49,4 +49,5 @@ Inha University
 High Tech #813   222-12
 Inha Univ.  Incheon S. Korea
 Email:  mehdi@inha.ac.kr
-----------------------------------------------
+-----------------------------------
+```
